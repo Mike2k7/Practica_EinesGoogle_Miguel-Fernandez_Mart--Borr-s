@@ -1,2 +1,2 @@
 # Practica_EinesGoogle_Miguel-Fernandez_Mart--Borr-s
-**Presentación:** [Conversion Binari-Decimal-Hexadecimal-Octal](file:///home/smx1b/Baixades/Conversi%C3%B3%20binari-decimal-hexadecimal-octal.pdf "Conversion Binari-Decimal-Hexadecimal-Octal")
+**Questionari:** [](https://docs.google.com/forms/d/e/1FAIpQLSeARmyHucrvCpLM50bzzVsWkCjRHWF_UT_OOZHiWRhafmexjA/viewform?usp=sharing&ouid=108374675660598671164)
